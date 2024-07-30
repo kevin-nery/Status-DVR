@@ -1,3 +1,5 @@
+# Feito por: Kevin.Nery
+
 from flask import Flask, render_template
 from dash import Dash, dcc, html
 from dash.dependencies import Input, Output
